@@ -1,1 +1,1 @@
-# spbuv2
+struk spbu
